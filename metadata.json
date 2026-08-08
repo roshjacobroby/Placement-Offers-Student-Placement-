@@ -1,0 +1,6 @@
+{
+  "name": "Employer & Placement Drive Management System",
+  "description": "V05 Employer & Placement Drive Management System for managing master company profiles, placement drives, and recruitment analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
